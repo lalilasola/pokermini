@@ -1,7 +1,7 @@
 
 'use client';
 
-import { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import { AuthKitProvider, SignInButton, useProfile } from '@farcaster/auth-kit';
 import sdk from '@farcaster/frame-sdk';
 
