@@ -18,3 +18,10 @@
   }
 }
 
+{
+  "name": "PokerMini",
+  "description": "Multiplayer poker directly inside Warpcast.",
+  "host": "https://pokermini.vercel.app",
+  "icon": "/favicon.ico",
+  "version": "0.1.0"
+}
