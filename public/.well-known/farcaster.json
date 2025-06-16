@@ -1,0 +1,13 @@
+
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEsInR5cGUiOiJjdXN0b2R5IiwibGVuZ3RoIjo5fQ",
+    "payload": "0x00000000000000010000000000000000000000000000000000000000000000000000000000000000",
+    "signature": "MHhkOWQ5ZGE5NDNkNGEzNDNlN2Q2ZjBmZWZhMmIwYzA0Y2JmZjE4ZDgwYTQ0ODQwZTczN2JlZjYwODYxZDFhOGM5M2QyN2MyMGU5YzE2OGZjMTZhZGE4MThhYzFiNDRlZDI1ZDFjZTdkOGI5ZjYwYWEzN2JkMjE5ZGQ0ZDc5ZTU2ZGQxYw"
+  },
+  "name": "Poker Mini",
+  "version": "1.0.0",
+  "iconUrl": "https://poker-mini.vercel.app/favicon.ico",
+  "homeUrl": "https://poker-mini.vercel.app",
+  "imageUrl": "https://poker-mini.vercel.app/og.png"
+}
